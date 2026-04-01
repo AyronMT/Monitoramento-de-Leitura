@@ -1,4 +1,4 @@
-```
+
 # 📚 Read Quest
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -99,11 +99,3 @@ Feito com ❤️ por **[Seu Nome/Nick]**
 
 ---
 *Gostou do projeto? Deixe uma ⭐ no repositório!*
-```
-
----
-
-### Dicas para personalizar o seu README:
-1. Pressione `Ctrl + F` (ou `Cmd + F` no Mac) e busque por colchetes `[` e `]` para encontrar todos os lugares que você precisa preencher com suas informações (como **[Nome do Seu App]**, links de redes sociais, etc).
-2. Na seção **Screenshots**, depois que você tiver as telas prontas, coloque as imagens na pasta do GitHub (geralmente numa pasta `assets/images/`) e substitua `link_da_imagem_X.jpg` pelo caminho real da imagem.
-3. Se você for usar um banco de dados (como Firebase, SQLite ou Hive), vale a pena adicionar isso depois na seção de **Tecnologias Utilizadas**.
